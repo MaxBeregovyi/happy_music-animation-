@@ -175,7 +175,7 @@
 
 #sun {
   animation-name: sun-move;
-  animation-duration: 15s;
+  animation-duration: 20s;
   animation-timing-function: linear;
   animation-iteration-count: infinite;
   animation-delay: 4s;
@@ -186,7 +186,7 @@
   0% {
   }
   25% {
-    transform: rotate(180deg) scale(0.2);
+    transform: rotate(220deg) scale(0.1);
   }
 
   50% {

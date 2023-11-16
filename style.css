@@ -151,7 +151,7 @@
 #melody-big,
 #melody-min {
   animation-name: melody-moveMin;
-  animation-duration: 3s;
+  animation-duration: 2s;
   animation-direction: alternate;
   animation-timing-function: linear;
   animation-iteration-count: infinite;
@@ -178,7 +178,7 @@
   animation-duration: 20s;
   animation-timing-function: linear;
   animation-iteration-count: infinite;
-  animation-delay: 4s;
+  animation-delay: 5s;
   transform-origin: bottom;
 }
 
